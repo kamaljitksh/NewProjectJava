@@ -8,11 +8,11 @@ public class NewProject {
 	
 		if(x%2==0)
 		{
-			System.out.println("EVEN NUMBER");
+			System.out.println("IT IS AN EVEN NUMBER");
 		}
 		else
 		{
-			System.out.println("ODD NUMBER");
+			System.out.println("IT IS AN ODD NUMBER");
 		}
 	}
 
