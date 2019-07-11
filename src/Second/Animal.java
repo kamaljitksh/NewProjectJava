@@ -13,6 +13,7 @@ public class Animal {
 		break;
 		case 'e':System.out.println("elephant");
 		break;
+		case 'f' :System.out.println("fish");
 		default:System.out.println("not in cat , dog and elephant");
 		break;
 		
